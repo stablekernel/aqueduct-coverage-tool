@@ -16,4 +16,5 @@ dev_dependencies:
   test: ^0.12.0
 
 executables:
-  aqueduct_coverage: main
+  main: main
+
